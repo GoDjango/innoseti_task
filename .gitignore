@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+/fabric-samples
+/vendor
+/claim/vendor
+/.idea
